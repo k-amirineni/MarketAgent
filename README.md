@@ -15,4 +15,6 @@ tags:
 - agent-course
 ---
 
+[Running sample](https://kamirine-stock-ticker-agent.hf.space)
+
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
